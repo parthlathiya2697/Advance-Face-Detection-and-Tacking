@@ -11,7 +11,7 @@
 
 
 ### 🎥 GIF Demo
-<img src='static/process.gif'/>
+<img src='static/demo.gif'/>
 
 
 ### Modern Applications of Advanced Face Tracking Systems 🌍
