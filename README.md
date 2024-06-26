@@ -1,4 +1,5 @@
 # 👤 Advance Face Tracking
+<Project by a Private Company>
 
 ### Detect, count, and track a vast range of faces seamlessly using a 3-camera setup, streaming in real-time with unparalleled accuracy! 🌟
 
