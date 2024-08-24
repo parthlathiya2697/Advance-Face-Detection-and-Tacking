@@ -55,6 +55,6 @@ Face tracking systems are reshaping the way we interact with our environments, a
 
 
 Connect with Me
-Feel free to reach out or check out my other projects:
+Feel free to reach out or check out my other projects
 [LinkedIn Demo](https://www.linkedin.com/feed/update/urn:li:activity:6753555787525844992/)
 
